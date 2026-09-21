@@ -1,0 +1,4 @@
+## there are two type 
+
+1 > local --> area where a val can be acccessed or used 
+or global 
